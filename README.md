@@ -2,7 +2,7 @@
 
 This is a demo application to show how service lifetimes works in Asp.Net Core default dependency injection. You can find the [related blog post here](https://www.mycodeinfo.com/blog/service-lifetimes-in-asp-net-core-dependency-injection/).
 
-# What are service lifetime scopes?
+# What are service lifetimes?
 
 You can use three lifetimes with the default dependency injection framework. These lifetimes affect how the service is resolved and disposed of by the service provider.
 
